@@ -2,7 +2,7 @@
 <h3 align="center">I’m a software developer from Istanbul, Turkey.</h3>
 
 
-- 🌱 I’m currently learning **React JS, .NET Core, Node JS**
+- 🌱 Web developer
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/cihannk?tab=repositories)
 
